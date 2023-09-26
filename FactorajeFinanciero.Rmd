@@ -1,0 +1,69 @@
+---
+title: "FACTORAJE FINANCIERO"
+author: "Francisco Alvarez Aguilera ~ Mario Nathaniel de la Vega Ramírez ~ Miguel Angel Ruíz Méndez"
+date: "`r Sys.Date()`"
+output:
+  ioslides_presentation:
+    includes: null
+    logo: LACDlogo.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# ¿Qué es el Factoraje Financiero?
+
+## \n
+Herramienta de financiamineto por medio de la cual una empresa de factoraje (**factor**) compra a un cliente (**cedente**), que a su vez es proveedor de bienes y servicios, su cartera ( pagarés, facturas, letras de cambio, contra recibos,etc.), después de hacerle un estudio de crédito. El cedente debe notificar lo anterior a su cliente(**obligado o deudor**) para que el pago se haga al factor. 
+
+El **objetivo** claro de esto es lograr liquidez, lo que representa un aumento en el capital de trabajo.
+
+![Foto1](factorajefoto1.png){width="40%"}.
+
+## Clasificación
+Existe una clasificación principal y más común:
+
+-**Con recurso**: En la cual la empresa que cede sigue siendo responsable de que se complete el pago en caso de que el cliente no cumpla con su obligación una vez vencido el documento en tiempo y forma. Este tipo de factoraje es el más común.
+
+-**Sin recurso**: También llamado factoraje puro, es cuando la empresa que cede los documentos desconoce la obligación de pagarlos dado su vencimiento. Este tipo de factoraje es admitido por la empresa factora si es de bajo riesgo, es decir, que la empresa deudora tenga un buen historial y reputación como los sería una empresa triple A, y finalmente,que genera gran utilidad.
+
+# ¿Cómo cobran intereses los factores?
+
+## \n
+La manera en que cobran intereses los factores depende de este mismo y de la empresa cedente. En general, el factor aplica una tasa de interés sobre el aforo y se cobra al vencer la operacion o por pagos periódicos.
+
+A destacar que además de este cobro de interes sobre el monto adelantado, el costo del factoraje támbien puede incluir comisiones por administración y cobranza, honorarios por aperura de linea y cargos por saldos vencidos. Adicionando el hecho de que el financiamiento que se le da al cedante es un importe menor al de su cartera.
+
+![Foto2](intereses.png){width="20%"}.
+
+# Ventajas y Desventajas del Factoraje Financiero
+
+## Ventajas :D
+
+-Ayuda a solucionar la falta de **liquidez**.
+
+-No aumenta el endeudamiento de la empresa ya que se esta vendiendo un activo (la cartera), en lugar de contratar un crédito.
+
+-Permite a la empresa crecer de manera sana al utilizar sus propios recursos.
+
+-Permite recibir anticipos de los créditos cedidos.
+
+-Permite a la empresa obtener recursos en cualquier momento.
+
+![Foto2](palomita.png){width="10%"}.
+
+## Desventajas :(
+
+-El factor puede rechazar los documentos del cedante.
+
+-Quedan excluidas las cuentas por cobrar a largo plazo y productos perecederos.
+
+-Puede existir sobrecostos a la tasa de interés que ofrece el factor.
+
+-En caso de impago, pueden existir penalizaciones al cedente o a la relacion con el cliente.
+
+![Foto3](tache.png){width="10%"}.
+
+## \n
+![Gracias](gracias.png){width="100%"}.
